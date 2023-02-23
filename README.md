@@ -1,2 +1,3 @@
-# repo-template
-A template repo that's pre-initialized with a license, CoC, etc.
+# JSON Schema Repository Template
+
+You've stumbled upon our template repository.  The sole purpose of this repository is to make creating new repositories easier.
